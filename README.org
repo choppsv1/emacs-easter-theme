@@ -1,0 +1,8 @@
+#+TITLE: README
+#+AUTHOR: Christian E. Hopps
+#+EMAIL: chopps@gmail.com
+#+STARTUP: indent
+
+* Emacs Easter Theme
+This theme started out as zenburn. I then changed the colors to be pastel easter
+themed. There still a lot of work on updating the uses of the colors.
